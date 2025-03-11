@@ -11,5 +11,6 @@ This phase presents findings and remediation steps to the client.
 - You: "Yes, I’ll patch and rescan. Final report by March 15."  
 
 ### Report
+You can find the Report here :point_down:
 ![Assessment Report.pdf](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/Network%20Vulnerability%20Assessment%20Report%20-%20SecureSphere.pdf)  
 
