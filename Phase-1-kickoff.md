@@ -11,7 +11,7 @@ This phase initiates the vulnerability assessment for SecureSphere Inc.'s Window
 | **From**    | Sarah Johnson (sarah.johnson@securesphere.com) |
 | **To**      | Adam Cops (Adamcops@infoShield.com) |
 | **Date**    | March 5, 2025                       |
-| **Body**    | Hi Adam, We’re a small e-commerce company worried about security after a competitor’s breach. We use a Windows 7 VM *(IP: 192.168.8.146)* to manage orders. Can you assess it? Let’s meet tomorrow at 10:00 AM PST. - Sarah |
+| **Body**    | Hi Adam, We’re a small e-commerce company worried about security after a competitor’s breach. We manage orders using a Windows 7 VM *(IP: 192.168.8.146)*. Can you assess it? Let’s meet tomorrow at 10:00 AM PST. - Sarah |
 
 ### Meeting: Kick-Off Call
 *Date:* March 5, 2025  
