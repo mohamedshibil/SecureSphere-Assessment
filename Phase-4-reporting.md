@@ -12,5 +12,5 @@ This phase presents findings and remediation steps to the client.
 
 ### Report
 You can find the Report here :point_down:
-![Assessment Report.pdf](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/Network%20Vulnerability%20Assessment%20Report%20-%20SecureSphere.pdf)  
+![Vulnerability Assessment Report](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/Network-Vulnerability-Assessment-Report-SecureSphere.pdf)
 
