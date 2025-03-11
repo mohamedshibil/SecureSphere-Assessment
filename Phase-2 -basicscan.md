@@ -29,5 +29,6 @@ This phase shares initial unauthenticated scan results and requests credentials 
 > Sharing **credentials** securely is a real-world challenge—here, it’s simulated via email for simplicity.
 
 ### Technical Notes
-- Ran `unauthenticated scan`: Found 3 high vulns (e.g., RCE, EOL).  
+- Ran `unauthenticated scan`: Found 3 high, 2 Medium, and 1 Low vulnerability (e.g., RCE, EOL).
+   
 ![Screenshot](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/basic%20scan%20result.png)
