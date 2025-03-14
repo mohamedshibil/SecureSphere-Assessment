@@ -13,7 +13,7 @@ This phase wraps up with a final report and reflection.
 
 ## Your Response
 
-## Email: Client Thank-You
+### Email: Client Thank-You
 | Field       | Details                              |
 |-------------|--------------------------------------|
 | **Subject** | Re: Great Work!                      |
