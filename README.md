@@ -1,4 +1,4 @@
-# 🔒 Vulnerability Management Project: SecureSphere Inc. 🔒
+# 🔒 Vulnerability Management Project: SecureSphere Inc. 
 
 Welcome to my vulnerability management project! 🚀 This hands-on assessment simulates a real-world cybersecurity task for a fictional e-commerce company, **SecureSphere Inc.**, using Qualys to scan a Windows 7 VM. It’s designed to help beginners learn the full lifecycle of vulnerability management—from planning to remediation—while showcasing client interactions and technical skills. 📚
 
@@ -23,24 +23,24 @@ This project follows a real-world workflow, split into 6 phases. Each phase incl
 
 | Phase | Description | Link |
 |-------|-------------|------|
-| 1️⃣ | **Kick-Off** 🎬: Define scope and set expectations with SecureSphere. | [Details](docs/phase-1-kickoff.md) |
-| 2️⃣ | **Basic Scan** 🔎: Run an unauthenticated scan to find initial risks. | [Details](docs/phase-2-basic-scan.md) |
-| 3️⃣ | **Authenticated Scan** 🔐: Use admin credentials for deeper insights. | [Details](docs/phase-3-authenticated-scan.md) |
-| 4️⃣ | **Reporting** 📝: Share findings and remediation plan with the client. | [Details](docs/phase-4-reporting.md) |
-| 5️⃣ | **Remediation** 🛡️: Fix vulnerabilities (e.g., patch MS17-010, disable SMBv1). | [Details](docs/phase-5-remediation.md) |
-| 6️⃣ | **Debrief** ✅: Deliver the final report and reflect on lessons learned. | [Details](docs/phase-6-debrief.md) |
+| 1️⃣ | **Kick-Off** 🎬: Define scope and set expectations with SecureSphere. | [Details](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/docs/Phase-1-kickoff.md) |
+| 2️⃣ | **Basic Scan** 🔎: Run an unauthenticated scan to find initial risks. | [Details](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/docs/Phase-2-basic-scan.md) |
+| 3️⃣ | **Authenticated Scan** 🔐: Use admin credentials for deeper insights. | [Details](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/docs/Phase-3-authenticated-scan.md) |
+| 4️⃣ | **Reporting** 📝: Share findings and remediation plan with the client. | [Details](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/docs/Phase-4-reporting.md) |
+| 5️⃣ | **Remediation** 🛡️: Fix vulnerabilities (e.g., patch MS17-010, disable SMBv1). | [Details](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/docs/Phase-5-remediation.md) |
+| 6️⃣ | **Debrief** ✅: Deliver the final report and reflect on lessons learned. | [Details](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/docs/Phase-6-debrief.md) |
 
-## 📸 Screenshots
+## 📄 Reports
 
-Check out the `scan screenshots` for a reference:
+Check out the `Report and Snippets` for a reference:
 
-- [Unauthenticated Scan Results](unauthenticated-scan.png) 📷  
-- [Authenticated Scan Results](authenticated-scan.png) 📷  
-
+- [Unauthenticated Scan Results](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/basic-scan-result.png) 📷  
+- [Authenticated Scan Results](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/authenticated-scan-result.png) 📷  
+- [Assessment Report](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/Network-Vulnerability-Assessment-Report-SecureSphere.pdf) 📔
 
 ## 📜 Final Report
 
-The full vulnerability report for SecureSphere Inc. is available here: [Final Report](docs/final-report.md) 📄. It includes:
+The full vulnerability report for SecureSphere Inc. is available here: [Final Report](https://github.com/mohamedshibil/SecureSphere-Assessment/blob/main/docs/final-vulnerability-assessment-report-SecureSphere.pdf) 📄. It includes:
 
 - **Executive Summary** 📋: High-level overview for non-technical readers.  
 - **Vulnerability Details** ⚠️: Names, CVSS scores, severity, and fixes (e.g., MS17-010, CVSS 9.3, Critical).  
@@ -66,7 +66,7 @@ Want to try this yourself? Here’s how to set it up:
 
 ## 🤝 Contributing
 
-This project is a learning resource, so contributions are welcome! If you have suggestions, open an issue or submit a pull request. Let’s learn together! 🌱
+This project is a learning resource, so contributions are welcome! If you have suggestions, please feel free to open an issue or submit a pull request. Let’s learn together! 🌱
 
 ## 📧 Contact
 
